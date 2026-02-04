@@ -9,8 +9,7 @@ The purpose of the Watershed Connectivity Restoration Plan (WCRP) is to systemat
 
 ## Barrier Count {.unnumbered}
 
-In the Margaree River Watershed, # structures potentially disconnect Atlantic Salmon habitat. Of these, # have
-been confirmed as barriers with habitat upstream and # require further field assessment.
+In the Margaree River Watershed, # structures potentially disconnect Atlantic Salmon habitat. Of these, # have been confirmed as barriers with habitat upstream and # require further field assessment.
 
 ## Current Connectivity Status {.unnumbered}
 

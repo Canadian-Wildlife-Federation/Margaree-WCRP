@@ -10,17 +10,18 @@ book:
   chapters:
     - index.qmd
     - content/project-overview.qmd
-    - content/connectivity-status.qmd
-    - content/barrier-prioritization.qmd
+    - content/data-methods.qmd
+    - content/connectivity-status-ranking.qmd
     - content/work-planning.qmd
+    - content/progress-reporting.qmd
     - content/references.qmd
     - content/version-history.qmd
   appendices: 
     - content/project-partners.qmd
+    - content/detailed-methods.qmd
     - content/supplementary-information.qmd 
-    - content/data-methods.qmd
-  
-  
+
+
   sidebar: 
     pinned: true
     logo: images/logo.png

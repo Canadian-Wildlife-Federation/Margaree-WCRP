@@ -1,26 +1,45 @@
-# Data Download and Methods {-}
+# Methods and Definitions
 
-## Modelled Habitat Maps {-}
+## Connectivity Modelling {-}
 
 High-resolution PDF maps accessed [here](url). In each individual map sheet, priority barriers are symbolized using the following notation: 
 
 ![Map description.](images/overview-map-hors.png){#fig-over}
 
-## Connectivity Status Assessment Methods {-}
 
-The connectivity status assessment ... The model spatially locates known and modelled barriers to fish passage, identifies potential spawning and rearing habitat for target species, and estimates the amount of habitat that is currently accessible to target species. The habitat model uses two geomorphic characteristics of the stream network — channel gradient and mean annual discharge — to identify potential spawning habitat and rearing habitat for each target species. The habitat model does not attempt to definitively map each habitat type nor estimate habitat quality, but rather identifies stream segments that have high potential to support spawning or rearing habitat for each species based on the geomorphic characteristics of the segment. For more details on the connectivity and habitat model structure and parameters, please see @Mazany-Wright2021-rz. The variables and thresholds used to model potential spawning and rearing habitat for each target species are summarized in (table).
+## Structure Ranking {-}
+### Field Assessment and Ranking Process {-}
+A primary outcome of the WCRP is addressing barriers to restore connectivity within the Margaree River watershed.  To achieve the goals set out in this plan it is necessary to identify a series of barriers that if made passable would reconnect a large contribution of Atlantic salmon and American eel habitat.  
 
-```{r, echo = FALSE, results = 'asis'}
-#| label: tbl-param
-#| tbl-cap: "Additional Key Actors. Key Actors are the individuals, groups, and/or organizations, outside of the planning team, with influence and relevant experience in the watershed, whose engagement will be critical for the successful implementation of this WCRP."
-#| warning: false
+After all existing data and knowledge are collated for known and modelled crossings, an iterative ranking process is conducted to help confirm barriers to target for rehabilitation to meet the goals.  The ranking process is primarily used to guide field assessments and maximize efficiency in ground truthing data/knowledge inputs and model outputs, while providing a secondary purpose to evaluate the relative key habitat gains of confirmed barriers in the watershed. Field assessments can include an assessment of either the passability status of a structure (whether fish can pass upstream, and to what degree), whether the upstream habitat is suitable for the focal species, and whether there are other undocumented anthropogenic or natural barriers upstream or downstream.  First, structures are grouped into ‘sets’.  Sets are identified by maximizing the key habitat gain for barriers in the same tributary system.  If adding a structure to a set reduces the gain-per-barrier (i.e., the total habitat gain of the set divided by the number of barriers in the set), then it is excluded and will be considered part of another set.  Each set is ranked by its potential to contribute to restoring the overall habitat connectivity.  The higher a set is ranked, the more potential contribution it makes to restoring the overall habitat connectivity, therefore making the set a higher priority for field assessment.  By assessing the passability status and upstream habitat of the top-ranked sets, we close knowledge gaps with the greatest influence on the overall connectivity model results.
 
-library("flextable")
+Sets are ranked by a combination of two factors: 
 
-data <- read.csv("data/additional-key-actors.csv", check.names=FALSE)
-ft <- flextable(data)
-ft <- bg(ft, bg = "#008270", part = "header")
-ft <- color(ft, color = "white", part = "header")
-ft <- set_caption(ft)
-ft |> autofit() 
-```
+1)	The long-term potential impact that restoring connectivity at that structure could have on the overall connectivity status.  This was measured by calculating and ranking sets by the amount of total upstream key habitat (i.e., ignoring any additional upstream sets).  This ranking identifies sets that would have the greatest long-term potential gain in habitat connectivity once any subsequent upstream barriers are addressed. 
+
+2)	The immediate potential impact that restoring connectivity at that structure could have on the overall connectivity status.  This was measured by calculating the amount of functional upstream habitat (i.e., key habitat between that set and the next upstream set of structures).  Sets were then ranked by functional upstream habitat amount in tiers, where sets with no downstream sets were ranked first, then sets with one downstream set, and so on.  This ranking identifies sets that have the greatest immediate potential gain in habitat by prioritizing sets that don’t rely on rehabilitation of downstream or upstream sets to realize these gains. 
+
+An overall ranking for each set was produced as a composite of the long-term and immediate potential gain ranks to prioritize sets that maximize long-term and immediate potential to improve key habitat connectivity in the watershed.  All structures in the watershed (excluding those confirmed as passable) were ranked and a subset of those structures were selected for field assessment.
+
+
+### Assessments {-}
+The majority of crossing structures in the Margaree River watershed were stream crossings for roads and trails making them the most abundant structure type in the watershed. The Margaree River watershed is also home to heavy beaver activity which can impact the flow and behaviour of streams within the watershed. Rapid assessment and ground truthing was completed for many of the structures within the watershed with formal assessments completed at three sites. Subsequent planning was done in partnership with the Nova Scotia Salmon Association to start the process of restoring structures by applying for applicable permits and beginning the restoration planning process.   
+
+
+
+## Glossary {-}
+### Small Dams (<3 m height) {-}
+
+There are  mapped small dams on “potentially accessible” stream segments in the watershed, blocking a total of  km (% of the total habitat) of modelled spawning and rearing habitat for <species>, resulting in a <condition> extent. The extent rating of these structures was confirmed by the planning team.
+
+### Road-stream Crossings {-}
+
+There are assessed and modelled crossings located on stream segments with modelled habitat. Demographic road crossings (highways, municipal, and paved roads) block  km of habitat (% of the total blocked habitat), with % of assessed crossings having been identified as barriers to fish passage. Resource roads block  km of habitat (~%), with % of assessed crossings having been identified as barriers.
+
+### Trail-stream crossings{-}
+
+There are ... 
+
+### Natural Barriers {-}
+
+Natural barriers to fish passage can include debris flows, log jams, sediment deposits, etc., but natural features that have always restricted fish passage (e.g., waterfalls) are not considered under this barrier type. Natural barriers are difficult to include in a spatial prioritization framework due to their transient nature.
