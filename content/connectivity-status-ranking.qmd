@@ -19,7 +19,7 @@ library(reticulate)
 
 ```
 
-# Connectivity Status and Ranking {-}
+# Connectivity Status and Ranking
 
 ## Current Connectivity Status {-}
 ```{python echo=FALSE}
