@@ -79,7 +79,7 @@ The following table highlights which barrier types pose the greatest threat to <
 
 ```{python barriertype, echo=FALSE}
 #| label: tbl-barriertype
-#| tbl-cap: "SAMPLE Connectivity status assessment for linear habitat (spawning and rearing)."
+#| tbl-cap: "Structure types in the Margaree watershedand barrier rating assessment results. For each structure type listed 'extent' refers to the proportion of key habitat for Atlantic salmon that is being blocked by that structure type, 'severity' is the proportion of structures for each structure type that are known to block passage for Atlantic salmon based on field assessment, and ‘irreversibility’ is the degree to which the effects of a structure type can be reversed and connectivity restored. Key habitat for the purpose of this exercise is the total amount of spawning and rearing habitat represented within the Margaree watershed model."
 #| warning: false
 #| echo: false
 
@@ -114,11 +114,11 @@ def rating(threat, barrier):
     return rating
             
 
-df = pd.DataFrame({"Barrier Types":["Road-Stream Crossings","Lateral Barriers","Small Dams(<3m height)","Trail-stream Crossings", "Natural Barriers"],
+df = pd.DataFrame({"Barrier Types":["Small Dams (<5m Height)","Natural Barriers","Road Stream Crossings","Trail-stream Crossings", "Natural Barriers"],
                    "Extent":[rating("extent", "ROAD"),"High",rating("extent", "DAM"), "Low", "Medium"],
-                   "Severity":[rating("severity", "ROAD"),"Very High",rating("severity", "DAM"), "Low", "High"],
-                   "Irreversibility":["Medium","High","High", "Medium", "Low"],
-                   "Overall Threat Rating:":["Very High","High","Medium", "Low", "Low"]
+                   "Severity":[rating("severity", "ROAD"),"Low",rating("severity", "DAM"), "Low", "High"],
+                   "Irreversibility":["Medium","Medium","Low", "Medium", "Low"],
+                   "Overall Threat Rating:":["Low","Low","High", "Low", "Low"]
                    }).style.set_properties(subset=["Overall Threat Rating:"], **{'font-weight': 'bold'})
 
 def highlight(val):
