@@ -6,4 +6,18 @@ Initial field assessments were completed in the Margaree watershed where 39 of t
 ## Annual Progress Report {-}
 The Margaree River Salmon Association (MSA) completed rapid and full barrier assessments at several sited throughout the Margaree watershed.  In depth habitat assessment and restoration planning are in progress and are planned to continue into the 2026 field season in partnership with the Nova Scotia Salmon Association.
 
+```{r remove, echo = FALSE, results = 'asis'}
+#| label: tbl-plan
+#| tbl-cap: "2026 work plan for the Margaree Watershed. "
+#| warning: false
+#| echo: false
+
+
+#data <- read.csv("data/operational-plan.csv", check.names=FALSE)
+#ft <- flextable(data)
+#ft <- format_flextable(ft)
+#ft
+```
+
+
 ## Rehabilitated Barriers {-}

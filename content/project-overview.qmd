@@ -118,11 +118,11 @@ def rating(threat, barrier):
     return rating
             
 
-df = pd.DataFrame({"Barrier Types":["Small Dams (<5m Height)","Natural Barriers","Road Stream Crossings","Trail-stream Crossings", "Natural Barriers"],
-                   "Extent":[rating("extent", "ROAD"),"High",rating("extent", "DAM"), "Low", "Medium"],
-                   "Severity":[rating("severity", "ROAD"),"Low",rating("severity", "DAM"), "Low", "High"],
-                   "Irreversibility":["Medium","Medium","Low", "Medium", "Low"],
-                   "Overall Threat Rating:":["Low","Low","High", "Low", "Low"]
+df = pd.DataFrame({"Barrier Types":["Small Dams (<5m Height)","Natural Barriers","Road Stream Crossings"],
+                   "Extent":["Low", "Medium", "High"],
+                   "Severity":["Low", "Low","Very High"],
+                   "Irreversibility":["Medium","Medium","Low"],
+                   "Overall Threat Rating:":["Low","Low","High"]
                    }).style.set_properties(subset=["Overall Threat Rating:"], **{'font-weight': 'bold'})
 
 def highlight(val):

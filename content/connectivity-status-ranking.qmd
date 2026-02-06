@@ -24,12 +24,11 @@ library(reticulate)
 ## Current Connectivity Status {-}
 ```{python echo=FALSE}
 #| label: tbl-goals
-#| tbl-cap: "SAMPLE TABLE Goals to improve spawning and rearing habitat connectivity for target species in the watershed. The goals were established through discussions with the planning team and represent the resulting desired state of connectivity in the watershed. The goals are subject to change as more information and data are collected over the course of the plan timeline (e.g., the current connectivity status is updated based on barrier field assessments)."
+#| tbl-cap: " Goals to improve (1) spawning, and (2) rearing habitat connectivity for focal species in the Margaree watershed over the lifespan of the WCRP (2024-2035). The goals were established through discussions with the planning team and represent the resulting desired state of connectivity in the watershed. The goals are subject to change as more information and data are collected over the course of the plan timeline (e.g., the current connectivity status is updated based on barrier field assessments)."
 #| warning: false
 #| echo: false
-df = pd.DataFrame({"Goal #": [1,2],
-                   "Goal": ["By 2040, the percent (%) of total linear habitat accessible to anadromous salmon will increase from " + str(api.connect)+"% " + " to 96% within the Horsefly River watershed (i.e., reconnect at least "+ str(api.gain) +" km of habitat).",
-                            "By 2024, the total area of overwintering habitat accessible to Anadromous Salmon will increase by 1,500 m2 within the Horsefly River watershed. "]
+df = pd.DataFrame({"Goal #": [1],
+                   "Goal": ["By 2035, increase the amount of connected habitat within the Margaree watershed."]
                     })
 
 data = df.style.hide().set_properties(**{'text-align': 'left'})
