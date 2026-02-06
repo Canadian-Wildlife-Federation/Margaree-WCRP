@@ -44,6 +44,8 @@ data.set_table_styles(
 
 
 ## Ranked Structures Table {-}
+
+
 ## Connectivity Status Assessment {-}
 
 (see @tbl-connectivity).
