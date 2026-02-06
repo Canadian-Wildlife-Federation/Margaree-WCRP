@@ -18,7 +18,9 @@ book:
     - content/version-history.qmd
   appendices: 
     - content/project-partners.qmd
+    - content/priority-barriers.qmd
     - content/non-actionable-barriers.qmd
+    - content/data-deficient-structures.qmd
     - content/excluded-structures.qmd
     - content/detailed-methods.qmd
     - content/supplementary-information.qmd 
