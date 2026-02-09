@@ -4,9 +4,6 @@ project:
 
 book:
   title: "Margaree River Connectivity Restoration Plan: 2024 - 2035"
-  author: "Canadian Wildlife Federation"
-  date: last-modified
-  date-format: "DD-MM-YYYY"
   chapters:
     - index.qmd
     - content/project-overview.qmd
