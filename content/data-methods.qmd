@@ -1,12 +1,12 @@
-# Methods and Definitions
+# Methods
 
 ## Connectivity Modelling {-}
 
 The current connectivity status was estimated using three models:  
 
-Accessibility model: Naturally accessible waterbodies are those that are considered likely accessible to focal species if no human-made barriers existed on the landscape.  These were spatially delineated for each focal species using natural barriers (i.e., waterfalls, gradient barriers, or subsurface flows) that would limit upstream movement ({numref}Table1).  
+Accessibility model: Naturally accessible waterbodies are those that are considered likely accessible to focal species if no human-made barriers existed on the landscape.  These were spatially delineated for each focal species using natural barriers (i.e., waterfalls, gradient barriers, or subsurface flows) that would limit upstream movement (@tbl-species).  
 
-Habitat model: A subset of the naturally accessible waterbody layer was defined as key habitat based on the KEA.  The habitat model identifies waterbodies that have a higher potential to support key habitat based on stream characteristics like channel gradient and discharge.  The habitat model criteria can be found in ({numref}Table 1).   
+Habitat model: A subset of the naturally accessible waterbody layer was defined as key habitat based on the KEA.  The habitat model identifies waterbodies that have a higher potential to support key habitat based on stream characteristics like channel gradient and discharge.  The habitat model criteria can be found in (@tbl-species).   
 
 Connectivity model: A layer of known or modelled structures was overlaid on the key habitat results.  Structures with unknown passability were treated as a full barrier until confirmed passable (100% passable) or partially passable (25, 50, or 75%) by either local knowledge, desktop review, or field assessment.  Watershed connectivity was estimated by calculating the amount of key habitat that is connected to the ocean (i.e., not fragmented by human-made barriers).  The amount of key habitat considered connected was determined by the cumulative passability of all downstream barriers. Key habitat with only passable structures downstream was considered fully connected.  All key habitat with any full barrier downstream was considered disconnected. Connected key habitat upstream of partial barriers was weighted based on the passability values of any downstream partial barriers.  For example, a 10 km habitat patch with two downstream partial barriers (both with 50% passability) was considered to represent 2.5 km of connected key habitat.  All connected habitats were summed and divided by the total amount of key habitat in the watershed to determine the proportion of connected habitat relative to the entire watershed.  
 
@@ -22,103 +22,8 @@ Sets are ranked by a combination of two factors:
 
 An overall ranking for each set was produced as a composite of the long-term and immediate potential gain ranks to prioritize sets that maximize long-term and immediate potential to improve key habitat connectivity in the watershed.  All structures in the watershed (excluding those confirmed as passable) were ranked and a subset of those structures were selected for field assessment.
 
-
-### Assessments {-}
 The majority of crossing structures in the Margaree River watershed were stream crossings for roads and trails making them the most abundant structure type in the watershed. The Margaree River watershed is also home to heavy beaver activity which can impact the flow and behaviour of streams within the watershed. Rapid assessment and ground truthing was completed for many of the structures within the watershed with formal assessments completed at three sites. Subsequent planning was done in partnership with the Nova Scotia Salmon Association to start the process of restoring structures by applying for applicable permits and beginning the restoration planning process.   
 
 ## Structure Ranking {-}
 
 
-## Glossary {-}
-### Freshwater connectivity: {-}
-The degree to which aquatic species can disperse and/or migrate freely through freshwater systems.  
-
-### Longitudinal connectivity: {-}
-Connectivity of a stream along the upstream-downstream plane, including access to tributaries and spawning and rearing habitat. Longitudinal connectivity can be fragmented by physical barriers (e.g., anthropogenic, or natural structures) or by physiological limits of distribution for species (e.g., stream gradient, temperature, or flow requirements). 
-
-### Lateral connectivity: {-}
-Connectivity of a stream bed to adjacent riparian wetlands, floodplains, side-channels, or off-channel features, including access to rearing and overwintering habitat. Lateral connectivity can be fragmented by physical barriers, channelization, armoring of the stream bed, or artificial flow regulation. 
-
-### Vertical connectivity: {-}
-Connectivity of a stream bed to groundwater/hyporheic zone, including access to oxygen-rich water and temperature refugia. Vertical connectivity can be fragmented by water withdrawals and anthropogenically induced changes to the hydrological, thermal, and sediment regimes of the watershed. 
-
-### Temporal connectivity: {-}
-Connectivity variability in any of the three spatial dimensions (longitudinal, lateral, vertical) based on changes in the natural flow regime over time. Variation in the temporal connectivity occurs naturally; however, fragmentation can be exacerbated through anthropogenically induced changes to the hydrological, thermal, and sediment regimes of the watershed. 
-
-### Geographic Scope: {-}
-The spatial bounds within which connectivity models are applied and fish-passage improvement efforts are focused. This area is refined after the accessibility model is developed to cover only streams that are naturally accessible to each focal species or guild (see naturally accessible streams below). 
-
-### Focal Species: {-}
-The ecologically and culturally important species (e.g., Chinook Salmon) for which habitat connectivity is being conserved and/or restored in the watershed. 
-
-### Focal Guild: {-}
-Two or more focal species grouped together by shared characteristics (e.g., migratory behavior, swimming ability, and habitat use).   
-
-### Key Ecological Attribute (KEA): {-}
-An aspect of a focal species or guild’s biology or ecology that, if missing or altered, would lead to the loss of that focal species over time (e.g., proportion of connected spawning habitat). 
-
-### Structure: {-}
-A feature, either anthropogenic (e.g., culvert, dam) or a temporary natural feature (e.g., barrier beach, debris jam) that may fragment freshwater systems and limit the ability of species to disperse and/or migrate freely within their naturally accessible habitat.  Differentiated from more permanent natural features, such as waterfalls, that delineate naturally accessible waterbodies.  
-
-### Set of structures: {-}
-A set of two or more structures that must be addressed/considered together for restoration or rehabilitation when considering the total amount of connectivity to be gained during barrier prioritization. 
-
-### Passability status: {-}
-A categorization of how passable a structure is (unknown, partially passable, passable, impassable) to the focal species or guild. Note: this status may differ from a passability status defined in another database that reflects passability to non-focal species or uses other terms such as “potentially passable”. 
-
-### Barrier: {-}
-A structure that has been assessed as impassable to the focal species for all life stages.  
-
-### Partial barrier: {-}
-A structure that differs in passability status (impassable and passable) across life stages or through time (e.g., seasonally).  
-
-### Passable: {-}
-A structure that is fully passable to the focal species for all life stages. 
-
-### Unknown: {-}
-A structure for which passability by the focal species is unknown. These are typically structures that have not been assessed or have been assessed but require further assessment.  These structures are considered barriers in connectivity models. 
-
-### Modeled barrier: {-}
-All structures assessed as barriers and partial barriers, or with unknown status (either unassessed or assessed but needs more information is still needed) are treated as barriers in connectivity models. 
-
-### Confirmed barrier: {-}
-All barriers and partial barriers with confirmed key habitat upstream.  
-
-### Deferred barrier: {-}
-Priority barrier for rehabilitation: The subset of confirmed barriers selected for proactive rehabilitation based on modelling outcomes.  Remaining confirmed barriers may never be addressed or may be addressed at the end of their life cycle.  
-
-### Natural barrier: {-}
-A permanent natural feature, such as a waterfall, stream reach with a steep gradient, or area of subsurface flow that focal species would not be able to pass. For diadromous species, all waterbodies upstream of such natural barriers are considered inaccessible. Resident species may have populations upstream and downstream of such barriers.  
-
-### Stream network (also, hydrographic network): {-}
-The spatial representation of all waterbodies (streams, rivers, and lakes) in a watershed. The stream network is the foundation for all spatial modelling, and the accessibility and habitat models create subsets of the stream network. 
-
-### Naturally accessible waterbodies: {-}
-The portions of the stream network that are considered likely accessible to focal species or guilds if no anthropogenic barriers existed on the landscape.  These are typically defined as all waterbodies downstream of natural barriers for diadromous species.  For resident species, populations may persist upstream of a natural barrier; therefore, naturally inaccessible waterbodies are those upstream of a natural barrier where no observations of the focal species have been recorded. 
-
-### Current Connectivity Status: {-}
-The measure of important habitat (i.e., amount, proportion, or index) that is currently connected (i.e., unaffected by structures with a status of unknown, partially passable, or impassable) for each focal species and KEA.  For non-diadromous species, indices such as the longest fragment or Dendridic Connectivity Index – potadromous (DCIp; Cote et al. 2009).  
-
-### Connectivity Goal: {-}
-A SMART (Specific, Measurable, Achievable, Relevant, and Time-Bound) goal representing the desired future connectivity status of each focal species and KEA (e.g., a percent or total km of habitat) and the time by which it will be achieved (a target year). 
-
-### Structure Prioritization:{-} 
-An analysis that ranks structures (individually and/or in sets) by the amount of key habitat disconnected by each individual structure. Structures are ranked in descending order according connectivity gains (e.g., greatest amount of linear km of important habitat) if restored or rehabilitated. This analysis includes structures with a passability status of “unknown”, “partially passable”, or “impassable”.  
-
-### Restoration: {-}
-Returning the ecological structure and function (e.g., natural channel-forming processes) of a site to pre-disturbance conditions. 
-
-### Rehabilitation: {-}
-The partial recovery of ecosystem function. This is typical when improving passage by replacing one type of crossing with another that is passable but may still affect the streambed or channel-forming processes. 
-
-### Rehabilitated barriers: {-}
-Structures for which connectivity for aquatic species was restored by altering or maintaining a structure that previously impeded movement. 
-
-### Remediation: {-}
-A term for a form of restoration most often associated with mining, referring to the remediation of contaminated sediments. Often used as jargon in fish-passage discussions because it applies to both fish passage and barriers (i.e., both can be described as “remediated”).  Most fish-passage projects involve ecological rehabilitation, but it is inaccurate to write that a barrier was rehabilitated. Instead, fish passage should be described as rehabilitated, improved, or restored (if appropriate), and barriers described as removed or addressed. 
-
-### Excluded structures: {-}
-Structures that were investigated during a project but were removed from consideration or the model. Reasons for their exclusion could be that they do not exist, are passable, or no key habitat was found upstream. 
-
-### Assessed structures that remain data deficient: {-}
-Structures that have had some form of assessment but need further investigation before a decision can be made to categorize them as either confirmed barriers, excluded structures (passable, non-existent, no suitable upstream habitat), or rehabilitated structures.  

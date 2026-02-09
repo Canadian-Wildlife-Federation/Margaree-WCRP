@@ -44,10 +44,10 @@ Healthy, well-connected stream networks within the Margaree watershed support th
 ## Scope {-}
 
 ![The primary geographic scope — the Margaree River watershed — located in the Fraser River system.](images/geo-scope-marg.png){#fig-geoscope}
-The geographic scope of this WCRP was further refined by identifying naturally accessible waterbodies, which are defined as streams, lakes, or reservoirs that focal species would access in the absence of anthropogenic barriers.  Naturally accessible waterbodies were spatially delineated for each species using stream characteristics that define the upper limit of their movement based on their swimming abilities (@tbl-targspec).  The spatial extent of the naturally accessible waterbodies layer was then refined based on existing fish observation data and/or redd surveys (for Atlantic salmon).  These maps were explored by the planning team to incorporate additional local knowledge, ensure accuracy, and finalize the criteria used to define naturally accessible waterbodies, which are shown for Atlantic salmon ({numref}fig2).  The new geographic scope formed the foundation for all subsequent analyses and planning steps, including mapping and modelling key habitat, quantifying the current connectivity status, goal setting, and action planning, see @Mazany-Wright2021-hs.
+The geographic scope of this WCRP was further refined by identifying naturally accessible waterbodies, which are defined as streams, lakes, or reservoirs that focal species would access in the absence of anthropogenic barriers.  Naturally accessible waterbodies were spatially delineated for each species using stream characteristics that define the upper limit of their movement based on their swimming abilities (@tbl-species).  The spatial extent of the naturally accessible waterbodies layer was then refined based on existing fish observation data and/or redd surveys (for Atlantic salmon).  These maps were explored by the planning team to incorporate additional local knowledge, ensure accuracy, and finalize the criteria used to define naturally accessible waterbodies, which are shown for Atlantic salmon (@fig-geoscope).  The new geographic scope formed the foundation for all subsequent analyses and planning steps, including mapping and modelling key habitat, quantifying the current connectivity status, goal setting, and action planning, see @Mazany-Wright2021-hs.
 
 ```{r targspec, echo = FALSE, results = 'asis'}
-#| label: tbl-targspec
+#| label: tbl-species
 #| tbl-cap: "Species specific stream characteristics used to spatially delineate naturally accessible waterbodies and key habitat for Atlantic salmon and American eel."
 #| warning: false
 
@@ -58,8 +58,7 @@ ft <- flextable(data)
 ft <- bg(ft, bg = "#008270", part = "header")
 ft <- color(ft, color = "white", part = "header")
 ft <- set_caption(ft)
-#ft <- autofit()
-#ft |> autofit() 
+ft |> autofit() 
 ```
 
 
@@ -71,7 +70,7 @@ Focal species represent the ecologically and culturally important species for wh
 
 Atlantic salmon are anadromous fishes, meaning mature adults spawn in freshwater and juveniles rear in freshwater before undergoing a process called smoltification where they migrate out to the ocean for 1-3+ years before returning to the freshwater to repeat this process.  Due to this migratory process, salmon require unimpeded access between the ocean and freshwater habitats to complete their life cycle.
 
-Atlantic salmon spawn in the pool-riffle transition zones of the main stem and larger tributaries of a river {cite}deGaudemar2000; Finstad2010.  Within these stretches, they seek out the tails of pools, where substrate size allows for females to excavate a space to deposit the eggs to incubate below gravel beds. Fast flowing, well oxygenated water with minimal fine sediments helps to maximize successful embryo development.  Atlantic salmon juveniles (fry and parr) rear in habitat that is deeper and slower, to facilitate their weaker swimming and predation capabilities.  Water depth, velocity, and substrate size tend to increase with parr as they increase in size and age.  Shelter, in the form of large rocks, boulders, or overhead cover provide crucial refuge for overwintering habitat.  Channel gradients most typically associated with these preferred spawning and rearing habitats range from 0.12 to 25%; with highest concentrations below 3% {cite}Amiro1993.
+Atlantic salmon spawn in the pool-riffle transition zones of the main stem and larger tributaries of a river @deGaudemar2000; @Finstad2010.  Within these stretches, they seek out the tails of pools, where substrate size allows for females to excavate a space to deposit the eggs to incubate below gravel beds. Fast flowing, well oxygenated water with minimal fine sediments helps to maximize successful embryo development.  Atlantic salmon juveniles (fry and parr) rear in habitat that is deeper and slower, to facilitate their weaker swimming and predation capabilities.  Water depth, velocity, and substrate size tend to increase with parr as they increase in size and age.  Shelter, in the form of large rocks, boulders, or overhead cover provide crucial refuge for overwintering habitat.  Channel gradients most typically associated with these preferred spawning and rearing habitats range from 0.12 to 25%; with highest concentrations below 3% @Amiro1993.
 
 ### American Eel {-}
 

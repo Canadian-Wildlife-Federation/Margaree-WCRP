@@ -1,0 +1,24 @@
+# Project Overview {.unnumbered}
+
+
+## Purpose {.unnumbered}
+
+The purpose of the Watershed Connectivity Restoration Plan (WCRP) is to systematically identify and assess potential barriers to Atlantic salmon migration in the Margaree Watershed. By conducting both desktop and field assessments, the project aims to evaluate the extent of migration barriers caused by manmade structures and identify opportunities for increasing connectivity for salmonid species. This assessment will guide the prioritization of barriers for remediation, ensuring that the most impactful sites are addressed first to enhance Atlantic salmon habitat and improve migration conditions.
+
+## Connectivity Status {.unnumbered}
+
+In the Margaree watershed, 358 structures potentially disconnect Atlantic Salmon habitat. Of these, 4 are identified as barriers in need of rehabilitation (priority barriers), # barriers that do not warrant rehabilitation (non-actionable), and 266 require further field assessment. 
+
+In the Margaree Watershed, 270 structures potentially disconnect Atlantic Salmon habitat. Of these, 3 have been reconnected through debris jam removal, 1 has been identified as an actionable barrier and 266 require further field assessment. 
+
+## Habitat Accumulation Curve {.unnumbered}
+![Habitat Accumulation Curve (HAC) showing structures in the Margaree watershed as of February 5th, 2026. Structures are ranked based on how much (km) habitat is upstream to the next structure or set of structures and that would be reconnected if the structure(s) became passable. Habitat upstream of data-deficient structures is considered disconnected until field assessments are completed. Structures that were excluded as passable are not shown; however, rehabilitated barriers are shown to demonstrate the connectivity gains achieved through implementation of this plan.](content/images/HAC-marg.png){#fig-geoscope}
+
+
+## Map {.unnumbered}
+![Map of focal species habitat and structures that are confirmed or potential barriers to fish passage in the Margaree watershed as of February 5th, 2026. Structure data were obtained from the Canadian Aquatic Barriers Database (aquaticbarriers.ca). The accessibility model represents areas of the watershed that focal species could access naturally in the absence of anthropogenic barriers. The habitat model represents the subset of accessible areas that may be used by focal species for key habitat function(s). Available local knowledge and data were incorporated and overrule habitat model results. Thick light-blue lines represent habitat that is currently connected, whereas thick red lines represent habitat considered to be disconnected because it is upstream of confirmed barriers or data-deficient structures. The y-axis represents the amount of habitat (km) blocked by each structure, discounted by 50% for first-order streams, and by passability (25%, 50%, 0r 75%) of partial barriers. Barriers that were rehabilitated through implementation of this plan are shown, but other excluded structures (e.g., those found to be passable) are not.](content/images/geo-scope-marg.png){#fig-hac}
+
+## Progress Summary {.unnumbered}
+
+The planning process for the Margaree River Connectivity Rehabilitation Plan began in 2024. Since that time, 39 structures have been assessed to determine their fish passage status, and habitat confirmations are planned for the 2026 field season. In total, 3 barriers have been rehabilitated through the removal of debris jams and one actionable barrier has been identified for the 2026 field season. The removal of debris jams at three sites has resulted in improved or restored access to approximately 30.25 km of habitat for focal species.  
+

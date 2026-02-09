@@ -1,0 +1,31 @@
+# Methods
+
+## Connectivity Modelling {-}
+
+The current connectivity status was estimated using three models:  
+
+Accessibility model: Naturally accessible waterbodies are those that are considered likely accessible to focal species if no human-made barriers existed on the landscape.  These were spatially delineated for each focal species using natural barriers (i.e., waterfalls, gradient barriers, or subsurface flows) that would limit upstream movement ({numref}Table1).  
+
+Habitat model: A subset of the naturally accessible waterbody layer was defined as key habitat based on the KEA.  The habitat model identifies waterbodies that have a higher potential to support key habitat based on stream characteristics like channel gradient and discharge.  The habitat model criteria can be found in ({numref}Table 1).   
+
+Connectivity model: A layer of known or modelled structures was overlaid on the key habitat results.  Structures with unknown passability were treated as a full barrier until confirmed passable (100% passable) or partially passable (25, 50, or 75%) by either local knowledge, desktop review, or field assessment.  Watershed connectivity was estimated by calculating the amount of key habitat that is connected to the ocean (i.e., not fragmented by human-made barriers).  The amount of key habitat considered connected was determined by the cumulative passability of all downstream barriers. Key habitat with only passable structures downstream was considered fully connected.  All key habitat with any full barrier downstream was considered disconnected. Connected key habitat upstream of partial barriers was weighted based on the passability values of any downstream partial barriers.  For example, a 10 km habitat patch with two downstream partial barriers (both with 50% passability) was considered to represent 2.5 km of connected key habitat.  All connected habitats were summed and divided by the total amount of key habitat in the watershed to determine the proportion of connected habitat relative to the entire watershed.  
+
+A primary outcome of the WCRP is addressing barriers to restore connectivity within the Margaree River watershed.  To achieve the goals set out in this plan it is necessary to identify a series of barriers that if made passable would reconnect a large contribution of Atlantic salmon and American eel habitat.  
+
+After all existing data and knowledge are collated for known and modelled crossings, an iterative ranking process is conducted to help confirm barriers to target for rehabilitation to meet the goals.  The ranking process is primarily used to guide field assessments and maximize efficiency in ground truthing data/knowledge inputs and model outputs, while providing a secondary purpose to evaluate the relative key habitat gains of confirmed barriers in the watershed. Field assessments can include an assessment of either the passability status of a structure (whether fish can pass upstream, and to what degree), whether the upstream habitat is suitable for the focal species, and whether there are other undocumented anthropogenic or natural barriers upstream or downstream.  First, structures are grouped into ‘sets’.  Sets are identified by maximizing the key habitat gain for barriers in the same tributary system.  If adding a structure to a set reduces the gain-per-barrier (i.e., the total habitat gain of the set divided by the number of barriers in the set), then it is excluded and will be considered part of another set.  Each set is ranked by its potential to contribute to restoring the overall habitat connectivity.  The higher a set is ranked, the more potential contribution it makes to restoring the overall habitat connectivity, therefore making the set a higher priority for field assessment.  By assessing the passability status and upstream habitat of the top-ranked sets, we close knowledge gaps with the greatest influence on the overall connectivity model results.
+
+Sets are ranked by a combination of two factors: 
+
+1)	The long-term potential impact that restoring connectivity at that structure could have on the overall connectivity status.  This was measured by calculating and ranking sets by the amount of total upstream key habitat (i.e., ignoring any additional upstream sets).  This ranking identifies sets that would have the greatest long-term potential gain in habitat connectivity once any subsequent upstream barriers are addressed. 
+
+2)	The immediate potential impact that restoring connectivity at that structure could have on the overall connectivity status.  This was measured by calculating the amount of functional upstream habitat (i.e., key habitat between that set and the next upstream set of structures).  Sets were then ranked by functional upstream habitat amount in tiers, where sets with no downstream sets were ranked first, then sets with one downstream set, and so on.  This ranking identifies sets that have the greatest immediate potential gain in habitat by prioritizing sets that don’t rely on rehabilitation of downstream or upstream sets to realize these gains. 
+
+An overall ranking for each set was produced as a composite of the long-term and immediate potential gain ranks to prioritize sets that maximize long-term and immediate potential to improve key habitat connectivity in the watershed.  All structures in the watershed (excluding those confirmed as passable) were ranked and a subset of those structures were selected for field assessment.
+
+
+### Assessments {-}
+The majority of crossing structures in the Margaree River watershed were stream crossings for roads and trails making them the most abundant structure type in the watershed. The Margaree River watershed is also home to heavy beaver activity which can impact the flow and behaviour of streams within the watershed. Rapid assessment and ground truthing was completed for many of the structures within the watershed with formal assessments completed at three sites. Subsequent planning was done in partnership with the Nova Scotia Salmon Association to start the process of restoring structures by applying for applicable permits and beginning the restoration planning process.   
+
+## Structure Ranking {-}
+
+

@@ -7,22 +7,26 @@ book:
   chapters:
     - index.qmd
     - content/project-overview.qmd
+    - content/glossary.qmd
     - content/data-methods.qmd
     - content/connectivity-status-ranking.qmd
     - content/work-planning.qmd
     - content/progress-reporting.qmd
     - content/references.qmd
     - content/version-history.qmd
-  appendices: 
-    - content/project-partners.qmd
-    - content/priority-barriers.qmd
-    - content/non-actionable-barriers.qmd
-    - content/data-deficient-structures.qmd
-    - content/excluded-structures.qmd
-    - content/detailed-methods.qmd
-    - content/supplementary-information.qmd 
+    
+    - part: "Appendix A"
+      chapters:
+        - content/project-partners.qmd
+        - content/detailed-methods.qmd
+        - content/supplementary-information.qmd
 
-
+    - part: "Appendix B"
+      chapters:
+        - content/priority-barriers.qmd
+        - content/non-actionable-barriers.qmd
+        - content/excluded-structures.qmd
+        - content/data-deficient-structures.qmd
   sidebar: 
     pinned: true
     logo: images/logo.png

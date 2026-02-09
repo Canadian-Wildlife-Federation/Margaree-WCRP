@@ -8,7 +8,7 @@ The Margaree River Salmon Association (MSA) completed rapid and full barrier ass
 
 ```{r remove, echo = FALSE, results = 'asis'}
 #| label: tbl-plan
-#| tbl-cap: "2026 work plan for the Margaree Watershed. "
+#| tbl-cap: "2026 work plan for the Margaree Watershed."
 #| warning: false
 #| echo: false
 
@@ -18,6 +18,3 @@ The Margaree River Salmon Association (MSA) completed rapid and full barrier ass
 #ft <- format_flextable(ft)
 #ft
 ```
-
-
-## Rehabilitated Barriers {-}

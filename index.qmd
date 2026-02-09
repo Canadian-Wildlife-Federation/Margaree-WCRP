@@ -12,7 +12,7 @@ In the Margaree watershed, 358 structures potentially disconnect Atlantic Salmon
 In the Margaree Watershed, 270 structures potentially disconnect Atlantic Salmon habitat. Of these, 3 have been reconnected through debris jam removal, 1 has been identified as an actionable barrier and 266 require further field assessment. 
 
 ## Habitat Accumulation Curve {.unnumbered}
-![Habitat Accumulation Curve (HAC) showing structures in the Margaree watershed as of February 5th, 2026. Structures are ranked based on how much (km) habitat is upstream to the next structure or set of structures and that would be reconnected if the structure(s) became passable. Habitat upstream of data-deficient structures is considered disconnected until field assessments are completed. Structures that were excluded as passable are not shown; however, rehabilitated barriers are shown to demonstrate the connectivity gains achieved through implementation of this plan.](content/images/HAC-marg.png){#fig-geoscope}
+![Habitat Accumulation Curve (HAC) showing structures in the Margaree watershed as of February 5th, 2026. Structures are ranked based on how much (km) habitat is upstream to the next structure or set of structures and that would be reconnected if the structure(s) became passable. Habitat upstream of data-deficient structures is considered disconnected until field assessments are completed. Structures that were excluded as passable are not shown; however, rehabilitated barriers are shown to demonstrate the connectivity gains achieved through implementation of this plan.](content/images/HAC-marg.png){#fig-hac}
 
 
 ## Map {.unnumbered}

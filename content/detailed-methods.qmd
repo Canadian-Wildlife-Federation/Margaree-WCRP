@@ -5,7 +5,7 @@ The connectivity status assessment for anadromous salmonids in the Margaree wate
 
 ```{r, echo = FALSE, results = 'asis'}
 #| label: tbl-param
-#| tbl-cap: "Additional Key Actors. Key Actors are the individuals, groups, and/or organizations, outside of the planning team, with influence and relevant experience in the watershed, whose engagement will be critical for the successful implementation of this WCRP."
+#| tbl-cap: "Parameters and thresholds used to inform the Intrinsic Potential habitat model for spawning and rearing habitat for each focal species in the Margaree River watershed."
 #| warning: false
 
 library("flextable")
