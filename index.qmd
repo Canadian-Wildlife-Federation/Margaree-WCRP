@@ -1,6 +1,4 @@
 # Project Overview {.unnumbered}
-
-
 ## Purpose {.unnumbered}
 
 The purpose of the Watershed Connectivity Restoration Plan (WCRP) is to systematically identify and assess potential barriers to Atlantic salmon migration in the Margaree Watershed. By conducting both desktop and field assessments, the project aims to evaluate the extent of migration barriers caused by manmade structures and identify opportunities for increasing connectivity for salmonid species. This assessment will guide the prioritization of barriers for remediation, ensuring that the most impactful sites are addressed first to enhance Atlantic salmon habitat and improve migration conditions.
