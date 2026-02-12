@@ -1,7 +1,7 @@
 # Priority Barriers {-}
 
 ```{r keyact, echo = FALSE, results = 'asis'}
-#| label: tbl-priority
+#| label: tbl-keyact
 #| tbl-cap: "Priority barriers"
 #| warning: false
 
