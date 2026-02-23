@@ -1,27 +1,9 @@
 ![](spawn.jpg)
 
-# Project Overview {.unnumbered}
+## Acknowledgements {-}
 
+This plan is the culmination of a collaborative planning process undertaken in the Horsefly River watershed over many months with a team of individuals and groups that are passionate about the conservation and restoration of freshwater ecosystems and the species they support. Plan development was funded by the B.C. Salmon Restoration and Innovation Fund, Canada Nature Fund for Aquatic Species at Risk, and the RBC Bluewater Project.
 
-## Purpose {.unnumbered}
+We were fortunate to benefit from the feedback, guidance, and wisdom of many people who volunteered their time throughout this process — this publication would not have been possible without the engagement of our partners and the planning team (see @tbl-planteam). We recognize the incredible fish passage and connectivity work that has occurred in the Horsefly River watershed to-date, and we are excited to continue partnering with local groups and organizations to build upon existing initiatives and provide a road map to push connectivity restoration forward over the next 20 years and beyond. 
 
-The purpose of the Watershed Connectivity Restoration Plan (WCRP) is to systematically identify and assess potential barriers to salmon migration in the Margaree Watershed. By conducting both desktop and field assessments, the project aims to evaluate the extent of migration barriers caused by manmade structures and identify opportunities for increasing connectivity for salmonid species. This assessment will guide the prioritization of barriers for remediation, ensuring that the most impactful sites are addressed first to enhance salmon habitat and improve migration conditions.
-
-## Barrier Count {.unnumbered}
-
-In the Margaree River Watershed, # structures potentially disconnect Atlantic Salmon habitat. Of these, # have
-been confirmed as barriers with habitat upstream and # require further field assessment.
-
-## Current Connectivity Status {.unnumbered}
-
-In the Margaree River watershed, # structures potentially disconnect Atlantic Salmon habitat. Of these, # are identified as barriers in need of rehabilitation (priority barriers), # barriers that do not warrant rehabilitation (non-actionable), and # require further field assessment.
-
-## Habitat Accumulation Curve | Map {.unnumbered}
-
-
-
-## Progress Summary {.unnumbered}
-
-The planning process for the Margaree River Watershed Connectivity Rehabilitation Plan...
-
-
+The Canadian Wildlife Federation recognizes that the lands and waters that form the basis of this plan are the traditional unceded territory of the Northern Secwepemc people. We are grateful for the opportunity to learn from the stewards of this land and work together to benefit Pacific Salmon. A special thank you to Nishitha Singi for sharing the traditional Secwepemctsín names used in this plan. 
