@@ -1,6 +1,6 @@
 # Template WCRP
 This repository is built and maintained by the Canadian Wildlife Federation (CWF). The repository contains a jupyter book and a Quarto book used for the live reporting of the WCRP.
-
+ 
 ## Anaconda Prompt
 One may want to use a virtual environment with python version 3.8-3.11 installed.
 Does not run locally with python version 3.12 or higher
