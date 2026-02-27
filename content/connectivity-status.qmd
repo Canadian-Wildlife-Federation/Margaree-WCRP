@@ -28,6 +28,7 @@ MODIFY TABLE?
 #| tbl-cap: "Goals to improve (1) spawning and rearing and (2) overwintering habitat connectivity for focal species in the Horsefly River watershed over the lifespan of the WCRP (2021-2040). The goals were established through discussions with the planning team and represent the resulting desired state of connectivity in the watershed. The goals are subject to change as more information and data are collected over the course of the plan timeline (e.g., the current connectivity status is updated based on barrier field assessments)."
 #| warning: false
 #| echo: false
+import pandas as pd
 df = pd.DataFrame({"Goal #": [1],
                    "Goal": ["By 2035, increase the amount of connected habitat within the Margaree watershed."]
                     })
