@@ -1,6 +1,13 @@
-<!-- # Horsefly River Watershed Secwepemcúl’ecw Connectivity Remediation Plan: 2021 - 2040 {-} -->
+# Acknowledgements and References {.unnumbered}
 
-# References {.unnumbered}
+## Recommended Citations
 
-::: {#refs}
-:::
+## Acknowledgements
+This plan is the culmination of a collaborative planning process undertaken in the Margaree watershed primarily led by the Margaree Salmon Association in partnership with the Canadian Wildlife Federation supported by the Atlantic Salmon Federation and the Nova Scotia Salmon Association. Without the continued dedication of these groups and individuals to the conservation and restoration of Atlantic salmon habitat this plan would not be possible. Plan development was funded by the Atlantic Salmon Federation. We were fortunate to benefit from the feedback, guidance, and wisdom of people who volunteered their time throughout this process — this publication would not have been possible without the engagement of our partners and the planning team (see Table 1). 
+
+The Canadian Wildlife Federation recognizes that the lands and waters that form the basis of this plan are the traditional unceded territory of the Mi’kmaw peoples. We are grateful for the opportunity to learn from the stewards of this land and work together to benefit Atlantic salmon and American eel.  
+
+We recognize the incredibly rich history of fish and fish habitat conservation and restoration work that has occurred in the Margaree watershed to-date. We would like to give special thanks to Bill Haley for contributing local knowledge that was invaluable to the planning process, Paul McNeil and Greg Lovely for their hard work and dedication to the Margaree, as well as Thomas Sweeney who provided crucial advice and guidance along the way. 
+
+## References
+Forbes, Donald & Taylor, Robert & Shaw, John & Carter, R.W.G. & Orford, Julian. (1990). Development and stability of barrier beaches on the Atlantic coast of Nova Scotia. 

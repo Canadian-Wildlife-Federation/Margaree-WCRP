@@ -1,7 +1,7 @@
-# Work Planning 
+# Work Plan
 
-## Annual Work Plan {-}
-
+## Work Plan Table {-}
+MODIFY DATA IN TABLE
 ```{r keyact, echo = FALSE, results = 'asis'}
 #| label: tbl-progress
 #| tbl-cap: "2024-2025 Work Plan"

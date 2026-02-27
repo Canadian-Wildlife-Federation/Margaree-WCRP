@@ -3,16 +3,18 @@ project:
   output-dir: _book
 
 book:
-  title: "Horsefly River Watershed Secwepemcúl’ecw Connectivity Restoration Plan: 2021 - 2040"
+  title: "Margaree River Connectivity Restoration Plan: 2024 – 2035"
   author: "Canadian Wildlife Federation"
   date: last-modified
   date-format: "DD-MM-YYYY"
   chapters:
     - index.qmd
     - content/project-overview.qmd
+    - content/methods-definitions.qmd
+    - content/glossary.qmd
     - content/connectivity-status.qmd
-    - content/barrier-prioritization.qmd
     - content/work-planning.qmd
+    - content/progress-reporting.qmd
     - content/references.qmd
     - content/version-history.qmd
   appendices: 
@@ -39,9 +41,9 @@ bibliography: references.bib
 
 format:
   html:
+    toc: false
     css: style.css
     theme: cosmo
-    toc-title: "HORS WCRP"
     crossref:
       fig-title: '**Figure**'
       tbl-title: '**Table**'
