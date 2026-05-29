@@ -1,0 +1,20 @@
+# Appendix B – Partners and Detailed Methods  {-}
+
+## Partners  {-}
+Table 5: Margaree WCRP planning team members. Planning team members contributed to the development of this plan by participating in scoping and planning meetings, and reviewing documents and data. 
+
+
+```{r echo = FALSE}
+#| label: table-6
+#| tbl-cap: "Table 6. Stewiacke WCRP planning team members. Planning team members contributed to the development of this plan by participating in scoping and planning meetings and reviewing documents and data."
+#| warning: false
+source("Rscripts/table_formatting.R")
+data <- read.csv("data/table6.csv", check.names=FALSE)
+ft <- flextable(data)
+ft <- format_flextable(ft)
+ft
+```
+
+## Detailed Methods {-}
+
+For details about accessibility, habitat, or connectivity models including structure-ranking methods, see detailed documentation for NSFishPass here:[NSFishPass GitHub](https://github.com/Canadian-Wildlife-Federation/nsfishpass)

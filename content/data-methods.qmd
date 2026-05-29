@@ -1,9 +1,0 @@
-# Detailed Methods  {-}
-
-## Data Download {-}
-
-Coming soon
-
-## Connectivity Status Assessment Methods {-}
-
-The connectivity status assessment for anadromous salmonids in the Margaree watershed builds on existing connectivity modelling work undertaken by the Canadian Wildlife Federation in partnership with the Atlantic Salmon Federation. The Margaree model within the NovaScotiaFishPass spatially locates known and modelled barriers to fish passage, identifies potential spawning and rearing habitat for focal species, and estimates the amount of habitat that is currently accessible to focal species within the Margaree. 
