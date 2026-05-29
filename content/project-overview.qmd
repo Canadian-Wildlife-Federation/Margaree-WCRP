@@ -18,5 +18,5 @@ This WCRP focuses on habitat connectivity for Atlantic Salmon in the Margaree wa
 
 Connectivity models in this WCRP focus on longitudinal habitat fragmentation by anthropogenic structures, including all types of dams and stream crossings. Diffuse natural barriers that make entire areas impassible are not included in the models but may be used to define the scope of this WCRP. For example, a tributary that is inhospitable because of increased water temperature may be excluded from the overall spatial scope of the WCRP because restoration needs there are broader than connectivity. 
 
-Figure 3: Map of the geographic scope of this connectivity restoration plan for Atlantic Salmon in the Margaree watershed in Nova Scotia. 
+![Figure 3: Map of the geographic scope of this connectivity restoration plan for Atlantic Salmon in the Margaree watershed in Nova Scotia.](images/Figure3.png)
 

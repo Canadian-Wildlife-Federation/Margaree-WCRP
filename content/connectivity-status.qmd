@@ -4,17 +4,17 @@
 
 ## Current Connectivity Status {-}
 
-In the Margaree watershed, X km of Atlantic Salmon habitat are currently connected to the ocean and X km are disconnected from it. This means that X% of the X km of total habitat is connected. 
+In the Margaree watershed, 441.85 km of Atlantic Salmon habitat are currently connected to the ocean and 51.45 km are disconnected from it. This means that 89.6% of the 493.3 km of total habitat is connected. 
 
 
 ## Structure Count {-}
 
-In the Margaree watershed, X structures potentially disconnect Atlantic Salmon habitat. Of these, X are identified as barriers in need of rehabilitation (priority barriers), X are identified as barriers that do not warrant rehabilitation (non-actionable), and X require further field assessment. 
+In the Margaree watershed, 257 structures potentially disconnect Atlantic Salmon habitat. Of these, 0 are identified as barriers in need of rehabilitation (priority barriers), 0 are identified as barriers that do not warrant rehabilitation (non-actionable), and 255 require further field assessment. 
 
 
 ## Maps {-}
 
-Figure 1: Map of Atlantic Salmon habitat and structures that are confirmed or potential barriers to fish passage in the Margaree watershed as of May 2026. Structure data were obtained from the Canadian Aquatic Barriers Database (aquaticbarriers.ca). The accessibility model represents areas of the watershed that Atlantic Salmon could access naturally in the absence of anthropogenic barriers. The habitat model represents the subset of accessible waterbodies that may be used by Atlantic Salmon for spawning and rearing. Available local knowledge and data were incorporated and overruled habitat model results. Thick orange lines represent partially disconnected habitat (upstream of a partial barrier), and thick red lines represent habitat considered to be fully disconnected (upstream of barriers or unassessed structures). Barriers in which passage was improved through implementation of this plan (via debris removal) are shown, but other excluded structures (e.g., those found to be passable) are not. 
+![Figure 1: Map of Atlantic Salmon habitat and structures that are confirmed or potential barriers to fish passage in the Margaree watershed as of May 2026. Structure data were obtained from the Canadian Aquatic Barriers Database (aquaticbarriers.ca). The accessibility model represents areas of the watershed that Atlantic Salmon could access naturally in the absence of anthropogenic barriers. The habitat model represents the subset of accessible waterbodies that may be used by Atlantic Salmon for spawning and rearing. Available local knowledge and data were incorporated and overruled habitat model results. Thick orange lines represent partially disconnected habitat (upstream of a partial barrier), and thick red lines represent habitat considered to be fully disconnected (upstream of barriers or unassessed structures). Barriers in which passage was improved through implementation of this plan (via debris removal) are shown, but other excluded structures (e.g., those found to be passable) are not.](images/Figure1.png)
 
 
 ## Habitat Accumulation Curves
@@ -23,12 +23,11 @@ Figure 2: Habitat Accumulation Curve (HAC) showing structures in the Margaree wa
 
 
 ## Habitat Accumulation Summary Table
-Table 1: Labelled structures in the Habitat Accumulation Curves (Figure 2), their rank, and weighted upstream habitat for Atlantic Salmon in the Margaree watershed. Habitat gain (averaged across sets) represents the amount (km) of weighted habitat upstream of that structure to the next structure and depicts the potential gain in habitat if passage at that structure was restored.  
 
 
 ```{r hac1, echo = FALSE, results = 'asis'}
 #| label: table-1
-#| tbl-cap: "Table 1. Labelled structures in the Habitat Accumulation Curve (Figure 3), their rank, and weighted upstream habitat for Atlantic Salmon in the Stewiacke watershed. Weighted Habitat Gain per Set represents the amount (km) of weighted habitat upstream of that structure to the next structure and depicts the immediate potential gain in habitat if passage at that structure was restored. Total Weighted Habitat Upstream per Set (km) represents the total amount (km) of weighted habitat upstream of the set, regardless of upstream structures, and depicts the long-term potential gain in habitat if passage at that structure (and all other upstream structures) was restored. Structure rank represents the model ranking of all sets of 1 or more structures."
+#| tbl-cap: "Table 1: Labelled structures in the Habitat Accumulation Curves (Figure 2), their rank, and weighted upstream habitat for Atlantic Salmon in the Margaree watershed. Habitat gain (averaged across sets) represents the amount (km) of weighted habitat upstream of that structure to the next structure and depicts the potential gain in habitat if passage at that structure was restored."
 #| warning: false
 #| echo: false
 source("Rscripts/table_formatting.R")

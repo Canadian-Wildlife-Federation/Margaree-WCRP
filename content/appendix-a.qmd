@@ -7,36 +7,34 @@ No priority barriers were identified through this WCRP as of 2026.
 No non-actionable barriers were identified through this WCRP as of 2026. 
 
 ## Data-deficient Barriers {-}
-Table 3: Structures in Margaree watershed that have been assessed for fish passage for Atlantic Salmon as of May 2026, but either require an additional in-depth fish-passage assessment to confirm the passability status or a habitat assessment to confirm upstream habitat is present.  
 
 
-```{r table4, echo = FALSE, results = 'asis'}
-#| label: table-4
-#| tbl-cap: "Table 4. Structures in Stewiacke watershed that have been assessed for fish passage for Atlantic Salmon and American Eel as of April 24th, 2026, but either require an additional in-depth fish-passage assessment to confirm the passability status or a habitat assessment to confirm upstream habitat is present."
+```{r table3, echo = FALSE, results = 'asis'}
+#| label: table-3
+#| tbl-cap: "Table 3: Structures in Margaree watershed that have been assessed for fish passage for Atlantic Salmon as of May 2026, but either require an additional in-depth fish-passage assessment to confirm the passability status or a habitat assessment to confirm upstream habitat is present."
 #| warning: false
 #| echo: false
 source("Rscripts/table_formatting.R")
 library("flextable")
 
-data <- read.csv("data/table4.csv", check.names=FALSE)
+data <- read.csv("data/table3.csv", check.names=FALSE)
 ft <- flextable(data)
 ft <- format_flextable(ft)
 ft
 ```
 
 ## Excluded Structures {-}
-Table 4: Structures in Margaree watershed that are excluded from further consideration in subsequent ranking and work planning because the structure is not present, or is confirmed passable (e.g., bridge) or has no habitat upstream for Atlantic Salmon.  
 
 
-```{r table5, echo = FALSE, results = 'asis'}
-#| label: table-5
-#| tbl-cap: "Table 5. Structures in Stewiacke watershed that are excluded from further consideration in subsequent ranking and work planning because the structure is not present, or is confirmed passable (e.g., bridge) or has no habitat upstream for Atlantic Salmon and American Eel."
+```{r table4, echo = FALSE, results = 'asis'}
+#| label: table-4
+#| tbl-cap: "Table 4: Structures in Margaree watershed that are excluded from further consideration in subsequent ranking and work planning because the structure is not present, or is confirmed passable (e.g., bridge) or has no habitat upstream for Atlantic Salmon."
 #| warning: false
 #| echo: false
 source("Rscripts/table_formatting.R")
 library("flextable")
 
-data <- read.csv("data/table5.csv", check.names=FALSE)
+data <- read.csv("data/table4.csv", check.names=FALSE)
 ft <- flextable(data)
 ft <- format_flextable(ft)
 ft

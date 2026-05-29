@@ -2,7 +2,7 @@
 
 ## Progress Reporting {-}
 
-This WCRP was initiated in 2025 as part of a larger conservation initiative led by the Atlantic Salmon Federation, called the Wild Salmon Watersheds program, which aims to protect, restore, and maintain resilient salmon watersheds, including the Margaree. Since then, several scoping and planning meetings were held between MSA, CWF, ASF, and the Nova Scotia Salmon Association (NSSA) to gather knowledge to develop and refine the initial connectivity models. The passability status of X structures was assessed in the field and field results reviewed with the planning team to determine next steps for identified barriers. 
+This WCRP was initiated in 2025 as part of a larger conservation initiative led by the Atlantic Salmon Federation, called the Wild Salmon Watersheds program, which aims to protect, restore, and maintain resilient salmon watersheds, including the Margaree. Since then, several scoping and planning meetings were held between MSA, CWF, ASF, and the Nova Scotia Salmon Association (NSSA) to gather knowledge to develop and refine the initial connectivity models. The passability status of 38 structures was assessed in the field and field results reviewed with the planning team to determine next steps for identified barriers. 
 
 
 ## Rehabilitated Barriers {-}
