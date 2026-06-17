@@ -1,6 +1,16 @@
 
+# Acknowledgements and References {-}
 
-# References {.unnumbered}
+## Recommended Citation 
 
-::: {#refs}
-:::
+N. Mazany-Wright, F. Montgomery, B. Rebellato, and N. W. R. Lapointe. 2026. Margaree watershed connectivity restoration plan. Canadian Wildlife Federation. Ottawa, Ontario, Canada. 
+
+
+## Acknowledgements {-}
+
+The Margaree Salmon Association and Canadian Wildlife Federation recognize that the lands and waters that form the basis of this plan are the traditional unceded territory of the Mi’kmaq peoples. Plan development and implementation were funded by the Atlantic Salmon Federation’s Wild Salmon Watershed program. Members of the planning team (Appendix B) are passionate about the conservation and restoration of freshwater ecosystems and the species they support, and contributed feedback, guidance, and knowledge. Accessibility models were inspired by fish-passage prioritization approaches developed by British Columbia’s Fish Passage Technical Working Group.  
+
+
+## References {-}
+
+Amiro, P. G. (1993). Habitat measurement and population estimation of juvenile Atlantic salmon (Salmo salar) (Canadian Special Publication of Fisheries and Aquatic Sciences No. 118). Department of Fisheries and Oceans.  
