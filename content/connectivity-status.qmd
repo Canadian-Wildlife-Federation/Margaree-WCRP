@@ -9,7 +9,7 @@ In the Margaree watershed, 441.85 km of Atlantic Salmon habitat are currently co
 
 ## Structure Count {-}
 
-In the Margaree watershed, 257 structures potentially disconnect Atlantic Salmon habitat. Of these, 0 are identified as barriers in need of rehabilitation (priority barriers), 0 are identified as barriers that do not warrant rehabilitation (non-actionable), and 255 require further field assessment. 
+In the Margaree watershed, 257 structures potentially disconnect Atlantic Salmon habitat. Of these, 0 are identified as barriers in need of rehabilitation (priority barriers), 0 are identified as barriers that do not warrant rehabilitation (non-actionable), and 17 require further field assessment. 
 
 
 ## Maps {-}
