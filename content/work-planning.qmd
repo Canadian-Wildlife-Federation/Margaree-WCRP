@@ -12,20 +12,18 @@ Model ranks provide only limited information on the relative value of rehabilita
 
 
 ## Workplan {-}
-Table 2: Implementation plan for 2025 to close knowledge gaps and advance barrier rehabilitation to improve connectivity for Atlantic Salmon in the Margaree. Steps to incorporate field data, update models, and revise this WCRP are also included. 
-
-
 ```{r workplan, echo = FALSE, results = 'asis'}
-#| label: table-3
-#| tbl-cap: "Table 3. Implementation plan for 2026 to close knowledge gaps and advance barrier rehabilitation to improve connectivity for Atlantic Salmon and American Eel in the Stewiacke watershed. Steps to incorporate field data, update models, and revise this WCRP are also included."
+#| label: table-2
+#| tbl-cap: "Table 2: Implementation plan for 2025 to close knowledge gaps and advance barrier rehabilitation to improve connectivity for Atlantic Salmon in the Margaree. Steps to incorporate field data, update models, and revise this WCRP are also included."
 #| warning: false
 #| echo: false
 source("Rscripts/table_formatting.R")
 library("flextable")
 
-data <- read.csv("data/table3.csv", check.names=FALSE)
+data <- read.csv("data/table2.csv", check.names=FALSE)
 ft <- flextable(data)
 ft <- format_flextable(ft)
 ft
 ```
+
 
