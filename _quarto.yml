@@ -37,7 +37,7 @@ format:
     css: style.css
     theme: cosmo
     toc: false
-    fig-cap-location: top
+    fig-cap-location: bottom
     crossref:
       fig-title: '**Figure**'
       tbl-title: '**Table**'
