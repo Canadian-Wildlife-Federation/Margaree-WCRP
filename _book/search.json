@@ -74,7 +74,7 @@
     "href": "content/methods.html",
     "title": "Methods",
     "section": "",
-    "text": "Accessibility Model\nNaturally accessible waterbodies are those that would likely be accessible to focal species if no human-made barriers existed on the landscape. This is treated as a proxy baseline for the historic distribution. Naturally accessible waterbodies were identified based on natural barriers (i.e., waterfalls or steep stream gradients) that would naturally limit upstream movement. Modelled natural barriers were excluded if focal species observations existed upstream of them. For Atlantic Salmon, accessibility limits were defined by &gt;5 m waterfalls or &gt;30% channel gradients. For American Eel, all rivers were considered accessible.",
+    "text": "Accessibility Model\nNaturally accessible waterbodies are those that would likely be accessible to focal species if no human-made barriers existed on the landscape. This is treated as a proxy baseline for the historic distribution. Naturally accessible waterbodies were identified based on natural barriers (i.e., waterfalls or steep stream gradients) that would naturally limit upstream movement. Modelled natural barriers were excluded if focal species observations existed upstream of them. For Atlantic Salmon, accessibility limits were defined by &gt;5 m waterfalls or &gt;30% channel gradients.",
     "crumbs": [
       "Methods"
     ]
@@ -84,7 +84,7 @@
     "href": "content/methods.html#habitat-model",
     "title": "Methods",
     "section": "Habitat Model",
-    "text": "Habitat Model\nA subset of the naturally accessible waterbody layer that is defined as key habitat (e.g., habitat likely to support spawning or rearing) (henceforth habitat), rather than simply being used as a movement corridor. An intrinsic potential modelling approach was used to identify areas that have the potential to support spawning or rearing for Atlantic Salmon based on stream characteristics such as gradient and discharge. For American Eel, habitat was identified by removing first-order streams from the accessible waterbody layer, recognizing that these streams typically have low habitat value for these species. Habitat model outputs were overruled by field data and local knowledge of habitat condition and use.",
+    "text": "Habitat Model\nA subset of the naturally accessible waterbody layer that is defined as key habitat (e.g., habitat likely to support spawning or rearing) (henceforth habitat), rather than simply being used as a movement corridor. An intrinsic potential modelling approach was used to identify areas that have the potential to support spawning or rearing for Atlantic Salmon based on stream characteristics such as gradient and discharge.",
     "crumbs": [
       "Methods"
     ]
@@ -144,7 +144,7 @@
     "href": "content/connectivity-status.html#habitat-accumulation-curves",
     "title": "Connectivity Status Results",
     "section": "Habitat Accumulation Curves",
-    "text": "Habitat Accumulation Curves\nFigure 2: Habitat Accumulation Curve (HAC) showing structures in the Margaree watershed as of May 2026. Structures are ranked based on how much (km) weighted habitat for Atlantic Salmon is upstream. The y-axis represents the cumulative amount of potential habitat gain (km), down-weighted by 75% for first-order streams and 25% for second-order streams, and by passability (25%, 50%, or 75%) of partial barriers. Sets of structures are indicated by a grey line below the curve, indicating that gains from addressing the downstream structure alone would be less than the combined gains from addressing all structures in the set. Habitat upstream of unassessed structures is considered disconnected until field assessments are completed. Structures that were excluded as passable are not shown.",
+    "text": "Habitat Accumulation Curves\n\n\n\nFigure 2: Habitat Accumulation Curve (HAC) showing structures in the Margaree watershed as of May 2026. Structures are ranked based on how much (km) weighted habitat for Atlantic Salmon is upstream. The y-axis represents the cumulative amount of potential habitat gain (km), down-weighted by 75% for first-order streams and 25% for second-order streams, and by passability (25%, 50%, or 75%) of partial barriers. Sets of structures are indicated by a grey line below the curve, indicating that gains from addressing the downstream structure alone would be less than the combined gains from addressing all structures in the set. Habitat upstream of unassessed structures is considered disconnected until field assessments are completed. Structures that were excluded as passable are not shown.",
     "crumbs": [
       "Connectivity Status Results"
     ]

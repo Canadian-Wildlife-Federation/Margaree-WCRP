@@ -4,11 +4,11 @@
 Connectivity models were produced using NSFishPass, an open-source freshwater connectivity modelling framework, which combines provincial spatial layers with WCRP-specific data tables and includes two sub-models: 
 
 ## Accessibility Model {-}
-Naturally accessible waterbodies are those that would likely be accessible to focal species if no human-made barriers existed on the landscape. This is treated as a proxy baseline for the historic distribution. Naturally accessible waterbodies were identified based on natural barriers (i.e., waterfalls or steep stream gradients) that would naturally limit upstream movement. Modelled natural barriers were excluded if focal species observations existed upstream of them. For Atlantic Salmon, accessibility limits were defined by >5 m waterfalls or >30% channel gradients. For American Eel, all rivers were considered accessible. 
+Naturally accessible waterbodies are those that would likely be accessible to focal species if no human-made barriers existed on the landscape. This is treated as a proxy baseline for the historic distribution. Naturally accessible waterbodies were identified based on natural barriers (i.e., waterfalls or steep stream gradients) that would naturally limit upstream movement. Modelled natural barriers were excluded if focal species observations existed upstream of them. For Atlantic Salmon, accessibility limits were defined by >5 m waterfalls or >30% channel gradients.
 
 
 ## Habitat Model {-}
-A subset of the naturally accessible waterbody layer that is defined as key habitat (e.g., habitat likely to support spawning or rearing) (henceforth habitat), rather than simply being used as a movement corridor. An intrinsic potential modelling approach was used to identify areas that have the potential to support spawning or rearing for Atlantic Salmon based on stream characteristics such as gradient and discharge. For American Eel, habitat was identified by removing first-order streams from the accessible waterbody layer, recognizing that these streams typically have low habitat value for these species. Habitat model outputs were overruled by field data and local knowledge of habitat condition and use.  
+A subset of the naturally accessible waterbody layer that is defined as key habitat (e.g., habitat likely to support spawning or rearing) (henceforth habitat), rather than simply being used as a movement corridor. An intrinsic potential modelling approach was used to identify areas that have the potential to support spawning or rearing for Atlantic Salmon based on stream characteristics such as gradient and discharge. 
 
 
 ## Connectivity Modelling {-}
